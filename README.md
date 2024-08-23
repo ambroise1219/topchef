@@ -1,36 +1,74 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Projet Culinaire Next.js
 
-## Getting Started
+Ce projet est une application web culinaire développée avec Next.js, combinant un site de recettes et une boutique d'ustensiles de cuisine.
 
-First, run the development server:
+## Fonctionnalités
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Section Recettes** : Parcourez et recherchez une variété de recettes.
+- **Boutique** : Explorez et achetez des ustensiles de cuisine.
+- **Panier d'achat** : Ajoutez des articles à votre panier et procédez au paiement.
+- **Interface réactive** : Design adaptatif pour une expérience utilisateur optimale sur tous les appareils.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Technologies Utilisées
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [Framer Motion](https://www.framer.com/motion/) pour les animations
+- [Tailwind CSS](https://tailwindcss.com/) pour le styling
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Démarrage Rapide
 
-## Learn More
+Pour commencer à utiliser ce projet, suivez ces étapes :
 
-To learn more about Next.js, take a look at the following resources:
+1. Clonez le dépôt :
+   ```bash
+   git clone https://github.com/ambroise1219/topchef.git
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2. Installez les dépendances :
+   ```bash
+   cd topchef
+   npm install
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+3. Lancez le serveur de développement :
+   ```bash
+   npm run dev
+   ```
 
-## Deploy on Vercel
+4. Ouvrez [http://localhost:3000](http://localhost:3000) avec votre navigateur pour voir le résultat.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Structure du Projet
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- `app/` : Contient les pages principales de l'application.
+- `components/` : Composants React réutilisables.
+- `styles/` : Fichiers CSS et configurations Tailwind.
+- `public/` : Assets statiques comme les images.
+- `constant/` : Fichiers de données JSON pour les recettes et produits.
+
+## Personnalisation
+
+Vous pouvez commencer à éditer les pages en modifiant les fichiers dans le dossier `app/`. Les pages se mettent à jour automatiquement lorsque vous modifiez les fichiers.
+
+## Déploiement
+
+Le moyen le plus simple de déployer votre application Next.js est d'utiliser la [Plateforme Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) des créateurs de Next.js.
+
+Consultez la [documentation de déploiement Next.js](https://nextjs.org/docs/deployment) pour plus de détails.
+
+## En Savoir Plus
+
+Pour en apprendre davantage sur Next.js, consultez les ressources suivantes :
+
+- [Documentation Next.js](https://nextjs.org/docs) - apprenez les fonctionnalités et l'API de Next.js.
+- [Apprendre Next.js](https://nextjs.org/learn) - un tutoriel interactif Next.js.
+
+N'hésitez pas à consulter [le dépôt GitHub de Next.js](https://github.com/vercel/next.js/) - vos retours et contributions sont les bienvenus !
+
+## Contribution
+
+Les contributions à ce projet sont les bienvenues. N'hésitez pas à ouvrir une issue ou à soumettre une pull request.
+
+## Licence
+
+[MIT](https://choosealicense.com/licenses/mit/)
