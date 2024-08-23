@@ -1,0 +1,1648 @@
+[
+    {
+      "id": 1,
+      "nom": "Riz de Jollof",
+      "categorie": "Plats principaux",
+      "image": "/jollof.jfif",
+      "description": "Un plat de riz épicé populaire en Afrique de l'Ouest.",
+      "temps": "45m",
+      "portions": 4,
+      "recette": {
+        "ingredients": [
+          {
+            "nom": "Riz",
+            "quantité": "2 tasses"
+          },
+          {
+            "nom": "Bouillon de poulet ou de bœuf",
+            "quantité": "4 tasses"
+          },
+          {
+            "nom": "Tomates en dés",
+            "quantité": "1 boîte (14 oz)"
+          },
+          {
+            "nom": "Pâte de tomate",
+            "quantité": "1 cuillère à soupe"
+          },
+          {
+            "nom": "Oignon haché",
+            "quantité": "1 gros"
+          },
+          {
+            "nom": "Ail haché",
+            "quantité": "2 gousses"
+          },
+          {
+            "nom": "Piment vert haché",
+            "quantité": "1"
+          },
+          {
+            "nom": "Poivre noir",
+            "quantité": "1 cuillère à café"
+          },
+          {
+            "nom": "Sel",
+            "quantité": "au goût"
+          },
+          {
+            "nom": "Huile végétale",
+            "quantité": "2 cuillères à soupe"
+          },
+          {
+            "nom": "Viande de poulet ou de bœuf",
+            "quantité": "facultatif"
+          }
+        ],
+        "instructions": "Dans une grande casserole à fond épais, chauffer l'huile à feu moyen. Ajouter l'oignon et l'ail et faire revenir pendant environ 5 minutes, jusqu'à ce qu'ils soient tendres. Ajouter les tomates en dés, la pâte de tomate, le piment vert, le poivre noir et le sel. Remuer et laisser mijoter pendant 10 minutes, en remuant de temps en temps, jusqu'à ce que la sauce ait épaissi. Ajouter le riz et le bouillon de poulet ou de bœuf. Porter à ébullition, puis réduire le feu, couvrir et laisser mijoter pendant 20 minutes, ou jusqu'à ce que le riz soit cuit et ait absorbé tout le liquide. Si vous utilisez de la viande, ajoutez-la pendant les dernières 10 minutes de cuisson. Servir chaud.",
+        "url": "https://www.youtube.com/watch?v=S_nXlO-Rw2Q"
+      }
+    },
+    {
+      "id": 2,
+      "nom": "Pap et Chakalaka",
+      "categorie": "Accompagnements",
+      "image": "/pap.jpg",
+      "description": "Purée de maïs servie avec une sauce épicée aux légumes.",
+      "temps": "30m",
+      "portions": 4,
+      "recette": {
+        "ingredients": [
+          {
+            "nom": "Maïs",
+            "quantité": "1 tasse"
+          },
+          {
+            "nom": "Eau",
+            "quantité": "3 tasses"
+          },
+          {
+            "nom": "Sel",
+            "quantité": "au goût"
+          },
+          {
+            "nom": "Huile végétale",
+            "quantité": "2 cuillères à soupe"
+          },
+          {
+            "nom": "Oignon haché",
+            "quantité": "1"
+          },
+          {
+            "nom": "Ail haché",
+            "quantité": "2 gousses"
+          },
+          {
+            "nom": "Poivre vert haché",
+            "quantité": "1"
+          },
+          {
+            "nom": "Tomates en dés",
+            "quantité": "1 boîte (14 oz)"
+          },
+          {
+            "nom": "Carottes en dés",
+            "quantité": "1 tasse"
+          },
+          {
+            "nom": "Pois verts",
+            "quantité": "1 tasse"
+          },
+          {
+            "nom": "Haricots verts",
+            "quantité": "1 tasse"
+          },
+          {
+            "nom": "Pâte de tomate",
+            "quantité": "1 cuillère à soupe"
+          },
+          {
+            "nom": "Piment rouge en poudre",
+            "quantité": "1 cuillère à café"
+          },
+          {
+            "nom": "Curry en poudre",
+            "quantité": "1/2 cuillère à café"
+          },
+          {
+            "nom": "Cumin moulu",
+            "quantité": "1/2 cuillère à café"
+          },
+          {
+            "nom": "Coriandre moulue",
+            "quantité": "1/2 cuillère à café"
+          }
+        ],
+        "instructions": "Dans une casserole moyenne, mélanger le maïs et l'eau. Porter à ébullition, puis réduire le feu, couvrir et laisser mijoter pendant 15 minutes, ou jusqu'à ce que le maïs soit tendre. Écraser le maïs à la fourchette jusqu'à obtenir une consistance crémeuse. Ajouter du sel au goût. Pour le chakalaka, chauffer l'huile dans une grande poêle à feu moyen. Ajouter l'oignon et l'ail et faire revenir pendant environ 5 minutes, jusqu'à ce qu'ils soient tendres. Ajouter le piment vert, les tomates en dés, les carottes, les pois verts, les haricots verts, la pâte de tomate, le piment rouge en poudre, le curry en poudre, le cumin moulu et la coriandre moulue. Remuer et laisser mijoter pendant 15 minutes, en remuant de temps en temps, jusqu'à ce que les légumes soient tendres. Servir le pap chaud avec le chakalaka.",
+        "url": "https://www.youtube.com/watch?v=J8Hd76lNPAI"
+      }
+    },
+    {
+      "id": 3,
+      "nom": "Mafe",
+      "categorie": "Plats principaux",
+      "image": "/mafe.jfif",
+      "description": "Ragoût d'arachide sénégalais avec viande et légumes.",
+      "temps": "1h 30m",
+      "portions": 6,
+      "recette": {
+        "ingredients": [
+          {
+            "nom": "Viande de bœuf",
+            "quantité": "1 lb"
+          },
+          {
+            "nom": "Pâte d'arachide",
+            "quantité": "1 tasse"
+          },
+          {
+            "nom": "Bouillon de bœuf",
+            "quantité": "4 tasses"
+          },
+          {
+            "nom": "Oignon haché",
+            "quantité": "1"
+          },
+          {
+            "nom": "Ail haché",
+            "quantité": "2 gousses"
+          },
+          {
+            "nom": "Poivre vert haché",
+            "quantité": "1"
+          },
+          {
+            "nom": "Tomates en dés",
+            "quantité": "1 boîte (14 oz)"
+          },
+          {
+            "nom": "Carottes en dés",
+            "quantité": "1 tasse"
+          },
+          {
+            "nom": "Patates douces en dés",
+            "quantité": "1 tasse"
+          },
+          {
+            "nom": "Choux en dés",
+            "quantité": "1 tasse"
+          },
+          {
+            "nom": "Huile végétale",
+            "quantité": "2 cuillères à soupe"
+          },
+          {
+            "nom": "Sel",
+            "quantité": "au goût"
+          },
+          {
+            "nom": "Poivre noir",
+            "quantité": "1 cuillère à café"
+          },
+          {
+            "nom": "Piment rouge en poudre",
+            "quantité": "1/2 cuillère à café"
+          },
+          {
+            "nom": "Cumin moulu",
+            "quantité": "1/2 cuillère à café"
+          }
+        ],
+        "instructions": "Faire mariner la viande de bœuf dans le bouillon de bœuf pendant au moins 30 minutes. Dans une grande casserole à fond épais, chauffer l'huile à feu moyen. Ajouter l'oignon, l'ail et le piment vert et faire revenir pendant environ 5 minutes, jusqu'à ce qu'ils soient tendres. Ajouter la viande de bœuf et faire revenir jusqu'à ce qu'elle soit dorée de tous les côtés. Ajouter les tomates en dés, les carottes, les patates douces, le chou, le sel, le poivre noir, le piment rouge en poudre et le cumin moulu. Remuer et laisser mijoter pendant 15 minutes, en remuant de temps en temps. Ajouter la pâte d'arachide et remuer pour bien mélanger. Ajouter plus de bouillon de bœuf si nécessaire pour obtenir la consistance désirée. Laisser mijoter pendant 30 minutes, en remuant de temps en temps, ou jusqu'à ce que la viande soit tendre et la sauce épaisse. Servir chaud avec du riz ou du couscous.",
+        "url": "https://www.youtube.com/watch?v=lClwnXJT8kA"
+      }
+    },
+    {
+      "id": 4,
+      "nom": "Doro Wat",
+      "categorie": "Plats principaux",
+      "image": "/doro.jfif",
+      "description": "Ragoût de poulet épicé éthiopien.",
+      "temps": "2h",
+      "portions": 4,
+      "recette": {
+        "ingredients": [
+          {
+            "nom": "Poulet entier",
+            "quantité": "1"
+          },
+          {
+            "nom": "Oignon haché",
+            "quantité": "1"
+          },
+          {
+            "nom": "Ail haché",
+            "quantité": "4 gousses"
+          },
+          {
+            "nom": "Gingembre haché",
+            "quantité": "1 cuillère à soupe"
+          },
+          {
+            "nom": "Piment rouge en poudre",
+            "quantité": "2 cuillères à soupe"
+          },
+          {
+            "nom": "Berbère",
+            "quantité": "2 cuillères à soupe"
+          },
+          {
+            "nom": "Huile végétale",
+            "quantité": "2 cuillères à soupe"
+          },
+          {
+            "nom": "Bouillon de poulet",
+            "quantité": "2 tasses"
+          },
+          {
+            "nom": "Sel",
+            "quantité": "au goût"
+          },
+          {
+            "nom": "Œufs durs",
+            "quantité": "6 (facultatif)"
+          }
+        ],
+        "instructions": "Couper le poulet en morceaux de taille moyenne. Dans une grande casserole à fond épais, chauffer l'huile à feu moyen. Ajouter l'oignon, l'ail et le gingembre et faire revenir pendant environ 5 minutes, jusqu'à ce qu'ils soient tendres. Ajouter le poulet et faire revenir jusqu'à ce qu'il soit doré de tous les côtés. Ajouter le piment rouge en poudre, le berbère, le bouillon de poulet et le sel. Porter à ébullition, puis réduire le feu, couvrir et laisser mijoter pendant 1 heure 30 minutes, ou jusqu'à ce que le poulet soit tendre et la sauce ait épaissi. Si vous utilisez des œufs durs, ajoutez-les pendant les 15 dernières minutes de cuisson. Servir chaud avec du pain injera.",
+        "url": "https://www.youtube.com/watch?v=zi4AT6uYKUs"
+      }
+    },
+    {
+      "id": 5,
+      "nom": "Fufu",
+      "categorie": "Accompagnements",
+      "image": "/fufu.jpg",
+      "description": "Pâte dense à base de manioc ou d'igname.",
+      "temps": "40m",
+      "portions": 4,
+      "recette": {
+        "ingredients": [
+          {
+            "nom": "Manioc ou igname",
+            "quantité": "2 lb"
+          },
+          {
+            "nom": "Eau",
+            "quantité": "assez pour couvrir"
+          },
+          {
+            "nom": "Sel",
+            "quantité": "au goût"
+          }
+        ],
+        "instructions": "Peler et couper le manioc ou l'igname en morceaux de taille moyenne. Dans une grande casserole, faire bouillir les morceaux de manioc ou d'igname dans de l'eau jusqu'à ce qu'ils soient tendres, environ 30 minutes. Écraser le manioc ou l'igname bouilli à l'aide d'une fourchette ou d'un pilon jusqu'à obtenir une pâte dense et lisse. Ajouter du sel au goût. Servir chaud avec un ragoût ou une soupe.",
+        "url": "https://www.youtube.com/watch?v=QhRNI077VBY"
+      }
+    },
+    {
+      "id": 6,
+      "nom": "Bobotie",
+      "categorie": "Plats principaux",
+      "image": "/bobotie.jfif",
+      "description": "Plat sud-africain à base de viande hachée épicée.",
+      "temps": "1h 15m",
+      "portions": 6,
+      "recette": {
+        "ingredients": [
+          {
+            "nom": "Viande hachée",
+            "quantité": "1 lb"
+          },
+          {
+            "nom": "Oignon haché",
+            "quantité": "1"
+          },
+          {
+            "nom": "Ail haché",
+            "quantité": "2 gousses"
+          },
+          {
+            "nom": "Piment rouge en poudre",
+            "quantité": "1 cuillère à café"
+          },
+          {
+            "nom": "Cumin moulu",
+            "quantité": "1/2 cuillère à café"
+          },
+          {
+            "nom": "Coriandre moulue",
+            "quantité": "1/2 cuillère à café"
+          },
+          {
+            "nom": "Sel",
+            "quantité": "au goût"
+          },
+          {
+            "nom": "Poivre noir",
+            "quantité": "1/2 cuillère à café"
+          },
+          {
+            "nom": "Tomates en dés",
+            "quantité": "1 boîte (14 oz)"
+          },
+          {
+            "nom": "Raisins secs",
+            "quantité": "1/2 tasse"
+          },
+          {
+            "nom": "Amandes",
+            "quantité": "1/4 tasse"
+          },
+          {
+            "nom": "Œufs",
+            "quantité": "2"
+          },
+          {
+            "nom": "Lait",
+            "quantité": "1/2 tasse"
+          },
+          {
+            "nom": "Beurre",
+            "quantité": "2 cuillères à soupe"
+          }
+        ],
+        "instructions": "Dans une grande poêle à feu moyen, faire revenir la viande hachée, l'oignon et l'ail pendant environ 5 minutes, jusqu'à ce qu'ils soient bien cuits. Ajouter le piment rouge en poudre, le cumin moulu, la coriandre moulue, le sel et le poivre noir. Remuer et laisser mijoter pendant 5 minutes. Ajouter les tomates en dés, les raisins secs et les amandes. Remuer et laisser mijoter pendant 10 minutes, en remuant de temps en temps. Dans un bol, battre les œufs et le lait. Verser le mélange d'œufs et de lait sur la viande hachée. Transférer le tout dans un plat allant au four beurré. Faire cuire au four préchauffé à 350 degrés F pendant 30 minutes, ou jusqu'à ce que le mélange d'œufs et de lait soit bien cuit et légèrement doré. Servir chaud avec du riz ou du pain.",
+        "url": "https://www.youtube.com/watch?v=H10qFeyK3fY"
+      }
+    },
+    {
+      "id": 7,
+      "nom": "Ndolé",
+      "categorie": "Plats principaux",
+      "image": "/ndole.jpg",
+      "description": "Ragoût camerounais à base de feuilles amères et de viande.",
+      "temps": "1h 30m",
+      "portions": 4,
+      "recette": {
+        "ingredients": [
+          {
+            "nom": "Viande de bœuf ou de chèvre",
+            "quantité": "1 lb"
+          },
+          {
+            "nom": "Feuilles de ndolé",
+            "quantité": "1 lb"
+          },
+          {
+            "nom": "Oignon haché",
+            "quantité": "1"
+          },
+          {
+            "nom": "Ail haché",
+            "quantité": "2 gousses"
+          },
+          {
+            "nom": "Piment rouge en poudre",
+            "quantité": "1 cuillère à café"
+          },
+          {
+            "nom": "Cumin moulu",
+            "quantité": "1/2 cuillère à café"
+          },
+          {
+            "nom": "Coriandre moulue",
+            "quantité": "1/2 cuillère à café"
+          },
+          {
+            "nom": "Sel",
+            "quantité": "au goût"
+          },
+          {
+            "nom": "Poivre noir",
+            "quantité": "1/2 cuillère à café"
+          },
+          {
+            "nom": "Huile végétale",
+            "quantité": "2 cuillères à soupe"
+          },
+          {
+            "nom": "Bouillon de bœuf ou de chèvre",
+            "quantité": "2 tasses"
+          },
+          {
+            "nom": "Tomates en dés",
+            "quantité": "1 boîte (14 oz)"
+          },
+          {
+            "nom": "Carottes en dés",
+            "quantité": "1 tasse"
+          },
+          {
+            "nom": "Patates douces en dés",
+            "quantité": "1 tasse"
+          },
+          {
+            "nom": "Choux en dés",
+            "quantité": "1 tasse"
+          }
+        ],
+        "instructions": "Faire mariner la viande de bœuf ou de chèvre dans le bouillon de bœuf ou de chèvre pendant au moins 30 minutes. Dans une grande casserole à fond épais, chauffer l'huile à feu moyen. Ajouter l'oignon, l'ail et le piment rouge en poudre et faire revenir pendant environ 5 minutes, jusqu'à ce qu'ils soient tendres. Ajouter la viande de bœuf ou de chèvre et faire revenir jusqu'à ce qu'elle soit dorée de tous les côtés. Ajouter le cumin moulu, la coriandre moulue, le sel et le poivre noir. Remuer et laisser mijoter pendant 5 minutes. Ajouter les tomates en dés, les carottes, les patates douces et le chou. Remuer et laisser mijoter pendant 15 minutes, en remuant de temps en temps. Ajouter les feuilles de ndolé et remuer pour bien mélanger. Ajouter plus de bouillon de bœuf ou de chèvre si nécessaire pour obtenir la consistance désirée. Laisser mijoter pendant 30 minutes, en remuant de temps en temps, ou jusqu'à ce que la viande soit tendre et les feuilles de ndolé ramollies. Servir chaud avec du riz ou de la farine de manioc.",
+        "url": "https://www.youtube.com/watch?v=m6mZqqOjsFk"
+      }
+    },
+    {
+      "id": 8,
+      "nom": "Shakshuka",
+      "categorie": "Petit-déjeuner",
+      "image": "/shak.webp",
+      "description": "Plat nord-africain d'œufs pochés dans une sauce tomate épicée.",
+      "temps": "30m",
+      "portions": 2,
+      "recette": {
+        "ingredients": [
+          {
+            "nom": "Huile végétale",
+            "quantité": "2 cuillères à soupe"
+          },
+          {
+            "nom": "Oignon haché",
+            "quantité": "1"
+          },
+          {
+            "nom": "Ail haché",
+            "quantité": "2 gousses"
+          },
+          {
+            "nom": "Piment rouge en poudre",
+            "quantité": "1 cuillère à café"
+          },
+          {
+            "nom": "Cumin moulu",
+            "quantité": "1/2 cuillère à café"
+          },
+          {
+            "nom": "Coriandre moulue",
+            "quantité": "1/2 cuillère à café"
+          },
+          {
+            "nom": "Sel",
+            "quantité": "au goût"
+          },
+          {
+            "nom": "Poivre noir",
+            "quantité": "1/2 cuillère à café"
+          },
+          {
+            "nom": "Tomates en dés",
+            "quantité": "1 boîte (14 oz)"
+          },
+          {
+            "nom": "Œufs",
+            "quantité": "4"
+          },
+          {
+            "nom": "Feta émiettée",
+            "quantité": "1/4 tasse (facultatif)"
+          },
+          {
+            "nom": "Coriandre fraîche hachée",
+            "quantité": "2 cuillères à soupe (facultatif)"
+          }
+        ],
+        "instructions": "Dans une grande poêle à feu moyen, chauffer l'huile. Ajouter l'oignon, l'ail, le piment rouge en poudre, le cumin moulu, la coriandre moulue, le sel et le poivre noir. Faire revenir pendant environ 5 minutes, jusqu'à ce qu'ils soient tendres. Ajouter les tomates en dés et laisser mijoter pendant 10 minutes, en remuant de temps en temps. À l'aide d'une cuillère, créer des puits dans la sauce tomate. Casser un œuf dans chaque puits. Couvrir et laisser cuire à feu doux pendant 5 à 7 minutes, ou jusqu'à ce que les blancs d'œufs soient bien cuits et les jaunes d'œufs encore coulants. Garnir de feta émiettée (facultatif) et de coriandre fraîche hachée (facultatif). Servir chaud avec du pain.",
+        "url": "https://www.youtube.com/watch?v=uDFIk3XE8aU"
+      }
+    },
+    {
+      "id": 9,
+      "nom": "Alloco",
+      "categorie": "Accompagnements",
+      "image": "/alloco.jfif",
+      "description": "Bananes plantain frites populaires en Côte d'Ivoire.",
+      "temps": "20m",
+      "portions": 4,
+      "recette": {
+        "ingredients": [
+          {
+            "nom": "Bananes plantain",
+            "quantité": "4"
+          },
+          {
+            "nom": "Huile végétale",
+            "quantité": "assez pour couvrir"
+          },
+          {
+            "nom": "Sel",
+            "quantité": "au goût"
+          }
+        ],
+        "instructions": "Peler les bananes plantain et les couper en tranches d'environ 1/2 pouce d'épaisseur. Faire chauffer l'huile végétale dans une grande poêle à feu moyen. Une fois l'huile chaude, ajouter les tranches de banane plantain. Faire frire pendant 5 à 7 minutes de chaque côté, ou jusqu'à ce qu'elles soient dorées et croustillantes. Retirer les bananes plantain frites de l'huile et les égoutter sur du papier absorbant. Saler au goût. Servir chaud.",
+        "url": "https://www.youtube.com/watch?v=UyPJoOzHavk"
+      }
+    },
+    {
+      "id": 10,
+      "nom": "Egusi Soup",
+      "categorie": "Soupes",
+      "image": "/egusi.png",
+      "description": "Soupe épaisse nigériane à base de graines de melon.",
+      "temps": "1h",
+      "portions": 6,
+      "recette": {
+        "ingredients": [
+          {
+            "nom": "Graines de melon",
+            "quantité": "1 tasse"
+          },
+          {
+            "nom": "Viande de bœuf ou de chèvre",
+            "quantité": "1 lb"
+          },
+          {
+            "nom": "Oignon haché",
+            "quantité": "1"
+          },
+          {
+            "nom": "Ail haché",
+            "quantité": "2 gousses"
+          },
+          {
+            "nom": "Piment rouge en poudre",
+            "quantité": "1 cuillère à café"
+          },
+          {
+            "nom": "Cumin moulu",
+            "quantité": "1/2 cuillère à café"
+          },
+          {
+            "nom": "Coriandre moulue",
+            "quantité": "1/2 cuillère à café"
+          },
+          {
+            "nom": "Sel",
+            "quantité": "au goût"
+          },
+          {
+            "nom": "Poivre noir",
+            "quantité": "1/2 cuillère à café"
+          },
+          {
+            "nom": "Huile végétale",
+            "quantité": "2 cuillères à soupe"
+          },
+          {
+            "nom": "Bouillon de bœuf ou de chèvre",
+            "quantité": "4 tasses"
+          },
+          {
+            "nom": "Tomates en dés",
+            "quantité": "1 boîte (14 oz)"
+          },
+          {
+            "nom": "Carottes en dés",
+            "quantité": "1 tasse"
+          },
+          {
+            "nom": "Patates douces en dés",
+            "quantité": "1 tasse"
+          },
+          {
+            "nom": "Choux en dés",
+            "quantité": "1 tasse"
+          },
+          {
+            "nom": "Feuilles de épinard",
+            "quantité": "1 paquet"
+          },
+          {
+            "nom": "Poivre vert",
+            "quantité": "1"
+          }
+        ],
+        "instructions": "Faire bouillir les graines de melon dans de l'eau pendant 15 minutes, puis les égoutter et les moudre jusqu'à obtenir une pâte lisse. Faire mariner la viande de bœuf ou de chèvre dans le bouillon de bœuf ou de chèvre pendant au moins 30 minutes. Dans une grande casserole à fond épais, chauffer l'huile à feu moyen. Ajouter l'oignon, l'ail, le piment rouge en poudre, le cumin moulu, la coriandre moulue, le sel et le poivre noir. Faire revenir pendant environ 5 minutes, jusqu'à ce qu'ils soient tendres. Ajouter la viande de bœuf ou de chèvre et faire revenir jusqu'à ce qu'elle soit dorée de tous les côtés. Ajouter les tomates en dés, les carottes, les patates douces, le chou, le poivre vert et le bouillon de bœuf ou de chèvre. Remuer et laisser mijoter pendant 30 minutes, en remuant de temps en temps. Ajouter la pâte de graines de melon et remuer pour bien mélanger. Laisser mijoter pendant 15 minutes, en remuant de temps en temps. Ajouter les feuilles d'épinard et remuer pour bien mélanger. Laisser mijoter pendant 5 minutes, ou jusqu'à ce que les feuilles d'épinard soient ramollies. Servir chaud avec du fufu, du riz ou du pain.",
+        "url": "https://www.youtube.com/watch?v=vRAdTxeosRg"
+      }
+    },
+    {
+      "id": 11,
+      "nom": "Koshari",
+      "categorie": "Plats principaux",
+      "image": "/koshari.jfif",
+      "description": "Plat égyptien mêlant lentilles, riz et pâtes.",
+      "temps": "45m",
+      "portions": 4,
+      "recette": {
+        "ingredients": [
+          {
+            "nom": "Riz",
+            "quantité": "1 tasse"
+          },
+          {
+            "nom": "Lentilles",
+            "quantité": "1 tasse"
+          },
+          {
+            "nom": "Pâtes en forme de coude",
+            "quantité": "1 tasse"
+          },
+          {
+            "nom": "Eau",
+            "quantité": "assez pour couvrir"
+          },
+          {
+            "nom": "Oignon haché",
+            "quantité": "1"
+          },
+          {
+            "nom": "Ail haché",
+            "quantité": "2 gousses"
+          },
+          {
+            "nom": "Tomates en dés",
+            "quantité": "1 boîte (14 oz)"
+          },
+          {
+            "nom": "Piment rouge en poudre",
+            "quantité": "1 cuillère à café"
+          },
+          {
+            "nom": "Cumin moulu",
+            "quantité": "1/2 cuillère à café"
+          },
+          {
+            "nom": "Coriandre moulue",
+            "quantité": "1/2 cuillère à café"
+          },
+          {
+            "nom": "Sel",
+            "quantité": "au goût"
+          },
+          {
+            "nom": "Poivre noir",
+            "quantité": "1/2 cuillère à café"
+          },
+          {
+            "nom": "Vinaigre",
+            "quantité": "1/4 tasse"
+          },
+          {
+            "nom": "Huile végétale",
+            "quantité": "2 cuillères à soupe"
+          },
+          {
+            "nom": "Coriandre fraîche hachée",
+            "quantité": "2 cuillères à soupe (facultatif)"
+          }
+        ],
+        "instructions": "Faire cuire le riz, les lentilles et les pâtes séparément selon les instructions sur l'emballage. Dans une grande casserole à fond épais, chauffer l'huile à feu moyen. Ajouter l'oignon, l'ail, les tomates en dés, le piment rouge en poudre, le cumin moulu, la coriandre moulue, le sel et le poivre noir. Faire revenir pendant environ 5 minutes, jusqu'à ce qu'ils soient tendres. Ajouter le riz, les lentilles et les pâtes cuits. Remuer et laisser mijoter pendant 5 minutes, en remuant de temps en temps. Verser le vinaigre et remuer pour bien mélanger. Servir chaud, garni de coriandre fraîche hachée (facultatif).",
+        "url": "https://www.youtube.com/watch?v=63kLwr61dEk"
+      }
+    },
+    {
+      "id": 12,
+      "nom": "Muamba de Galinha",
+      "categorie": "Plats principaux",
+      "image": "/muamba.png",
+      "description": "Ragoût de poulet angolais à l'huile de palme.",
+      "temps": "1h 30m",
+      "portions": 4,
+      "recette": {
+        "ingredients": [
+          {
+            "nom": "Poulet entier",
+            "quantité": "1"
+          },
+          {
+            "nom": "Oignon haché",
+            "quantité": "1"
+          },
+          {
+            "nom": "Ail haché",
+            "quantité": "2 gousses"
+          },
+          {
+            "nom": "Piment rouge en poudre",
+            "quantité": "1 cuillère à café"
+          },
+          {
+            "nom": "Cumin moulu",
+            "quantité": "1/2 cuillère à café"
+          },
+          {
+            "nom": "Coriandre moulue",
+            "quantité": "1/2 cuillère à café"
+          },
+          {
+            "nom": "Sel",
+            "quantité": "au goût"
+          },
+          {
+            "nom": "Poivre noir",
+            "quantité": "1/2 cuillère à café"
+          },
+          {
+            "nom": "Huile de palme",
+            "quantité": "1/2 tasse"
+          },
+          {
+            "nom": "Bouillon de poulet",
+            "quantité": "2 tasses"
+          },
+          {
+            "nom": "Tomates en dés",
+            "quantité": "1 boîte (14 oz)"
+          },
+          {
+            "nom": "Carottes en dés",
+            "quantité": "1 tasse"
+          },
+          {
+            "nom": "Patates douces en dés",
+            "quantité": "1 tasse"
+          },
+          {
+            "nom": "Choux en dés",
+            "quantité": "1 tasse"
+          },
+          {
+            "nom": "Piment vert",
+            "quantité": "1"
+          }
+        ],
+        "instructions": "Couper le poulet en morceaux de taille moyenne. Dans une grande casserole à fond épais, chauffer l'huile de palme à feu moyen. Ajouter l'oignon, l'ail, le piment rouge en poudre, le cumin moulu, la coriandre moulue, le sel et le poivre noir. Faire revenir pendant environ 5 minutes, jusqu'à ce qu'ils soient tendres. Ajouter le poulet et faire revenir jusqu'à ce qu'il soit doré de tous les côtés. Ajouter les tomates en dés, les carottes, les patates douces, le chou, le piment vert et le bouillon de poulet. Remuer et laisser mijoter pendant 30 minutes, en remuant de temps en temps. Servir chaud avec du riz ou du fufu.",
+        "url": "https://www.youtube.com/watch?v=9O7GXAfmYx8"
+      }
+    },
+    {
+      "id": 13,
+      "nom": "Attiéké",
+      "categorie": "Accompagnements",
+      "image": "/attieke.jpg",
+      "description": "Couscous de manioc ivoirien",
+      "temps": "30m",
+      "portions": 4,
+      "recette": {
+        "ingredients": [
+          {
+            "nom": "Attiéké",
+            "quantité": "500g"
+          },
+          {
+            "nom": "Oignon",
+            "quantité": "1"
+          },
+          {
+            "nom": "Tomate",
+            "quantité": "2"
+          },
+          {
+            "nom": "Poisson grillé",
+            "quantité": "400g"
+          },
+          {
+            "nom": "Huile",
+            "quantité": "2 cuillères à soupe"
+          },
+          {
+            "nom": "Sel",
+            "quantité": "au goût"
+          },
+          {
+            "nom": "Piment",
+            "quantité": "1 (facultatif)"
+          }
+        ],
+        "instructions": "Faire chauffer l'attiéké à la vapeur pendant 10-15 minutes. Pendant ce temps, couper l'oignon et la tomate en dés. Dans un bol, mélanger l'oignon, la tomate, l'huile et le sel pour faire une sauce. Émietter le poisson grillé. Servir l'attiéké chaud avec la sauce et le poisson émietté. Ajouter du piment si désiré.",
+        "url": "https://www.youtube.com/watch?v=o9v9co-ohWc"
+      }
+    },
+    {
+      "id": 14,
+      "nom": "Sauce Graine",
+      "categorie": "Plats principaux",
+      "image": "/graine.jfif",
+      "description": "Sauce ivoirienne à base de graines de palme",
+      "temps": "1h 30m",
+      "portions": 6,
+      "recette": {
+        "ingredients": [
+          {
+            "nom": "Graines de palme",
+            "quantité": "500g"
+          },
+          {
+            "nom": "Viande de bœuf",
+            "quantité": "500g"
+          },
+          {
+            "nom": "Poisson fumé",
+            "quantité": "200g"
+          },
+          {
+            "nom": "Oignon",
+            "quantité": "2"
+          },
+          {
+            "nom": "Ail",
+            "quantité": "3 gousses"
+          },
+          {
+            "nom": "Piment",
+            "quantité": "2"
+          },
+          {
+            "nom": "Sel",
+            "quantité": "au goût"
+          },
+          {
+            "nom": "Bouillon cube",
+            "quantité": "2"
+          }
+        ],
+        "instructions": "Faire bouillir les graines de palme dans de l'eau pendant 30 minutes. Les écraser et filtrer pour obtenir le jus. Faire revenir la viande avec l'oignon et l'ail. Ajouter le jus de graine et laisser mijoter 45 minutes. Ajouter le poisson fumé, le piment, le sel et le bouillon. Cuire encore 15 minutes. Servir chaud avec du riz ou de l'attiéké.",
+        "url": "https://www.youtube.com/watch?v=tk8yxRYqZ8k"
+      }
+    },
+    {
+      "id": 15,
+      "nom": "Kedjenou",
+      "categorie": "Plats principaux",
+      "image": "/kedjenou.jfif",
+      "description": "Ragoût de poulet ivoirien cuit à l'étouffée",
+      "temps": "1h 30m",
+      "portions": 4,
+      "recette": {
+        "ingredients": [
+          {
+            "nom": "Poulet",
+            "quantité": "1 kg"
+          },
+          {
+            "nom": "Aubergines",
+            "quantité": "2"
+          },
+          {
+            "nom": "Tomates",
+            "quantité": "4"
+          },
+          {
+            "nom": "Oignons",
+            "quantité": "2"
+          },
+          {
+            "nom": "Gingembre",
+            "quantité": "1 morceau"
+          },
+          {
+            "nom": "Ail",
+            "quantité": "4 gousses"
+          },
+          {
+            "nom": "Piment",
+            "quantité": "1"
+          },
+          {
+            "nom": "Thym",
+            "quantité": "2 branches"
+          },
+          {
+            "nom": "Sel",
+            "quantité": "au goût"
+          },
+          {
+            "nom": "Bouillon cube",
+            "quantité": "1"
+          }
+        ],
+        "instructions": "Couper le poulet en morceaux. Hacher les légumes. Mélanger tous les ingrédients dans une marmite. Fermer hermétiquement et cuire à feu doux pendant 1h30 sans ouvrir. Secouer la marmite de temps en temps. Servir chaud avec de l'attiéké ou du riz.",
+        "url": "https://www.youtube.com/watch?v=dRFsON9OWUA"
+      }
+    },
+    {
+      "id": 16,
+      "nom": "Foutou Banane",
+      "categorie": "Accompagnements",
+      "image": "/foutou.jfif",
+      "description": "Pâte de banane plantain et de manioc ivoirienne",
+      "temps": "45m",
+      "portions": 4,
+      "recette": {
+        "ingredients": [
+          {
+            "nom": "Bananes plantain mûres",
+            "quantité": "4"
+          },
+          {
+            "nom": "Manioc",
+            "quantité": "500g"
+          },
+          {
+            "nom": "Eau",
+            "quantité": "1 tasse"
+          },
+          {
+            "nom": "Sel",
+            "quantité": "1 pincée"
+          }
+        ],
+        "instructions": "Éplucher et couper les bananes plantain et le manioc en morceaux. Faire bouillir séparément jusqu'à ce qu'ils soient tendres. Écraser le manioc dans un mortier. Ajouter progressivement les morceaux de banane plantain et continuer à piler. Ajouter un peu d'eau si nécessaire pour obtenir une pâte lisse et élastique. Former des boules et servir chaud avec une sauce au choix.",
+        "url": "https://www.youtube.com/watch?v=fNvj03mfPN4"
+      }
+    },
+    {
+      "id": 17,
+      "nom": "Mafé",
+      "categorie": "Plats principaux",
+      "image": "/mafe.jpg",
+      "description": "Ragoût de viande à la sauce d'arachide sénégalais",
+      "temps": "2h",
+      "portions": 6,
+      "recette": {
+        "ingredients": [
+          {
+            "nom": "Viande de bœuf",
+            "quantité": "1 kg"
+          },
+          {
+            "nom": "Pâte d'arachide",
+            "quantité": "250g"
+          },
+          {
+            "nom": "Tomates",
+            "quantité": "4"
+          },
+          {
+            "nom": "Oignons",
+            "quantité": "2"
+          },
+          {
+            "nom": "Ail",
+            "quantité": "3 gousses"
+          },
+          {
+            "nom": "Carottes",
+            "quantité": "2"
+          },
+          {
+            "nom": "Pommes de terre",
+            "quantité": "2"
+          },
+          {
+            "nom": "Chou",
+            "quantité": "1/4"
+          },
+          {
+            "nom": "Bouillon cube",
+            "quantité": "2"
+          },
+          {
+            "nom": "Huile",
+            "quantité": "4 cuillères à soupe"
+          },
+          {
+            "nom": "Sel et poivre",
+            "quantité": "au goût"
+          }
+        ],
+        "instructions": "Faire revenir la viande avec l'oignon et l'ail dans l'huile. Ajouter les tomates et laisser mijoter 10 minutes. Diluer la pâte d'arachide dans 1 litre d'eau chaude et ajouter au mélange. Ajouter les légumes coupés en morceaux, les bouillons cubes, le sel et le poivre. Laisser mijoter à feu doux pendant 1h30, en remuant régulièrement. Servir chaud avec du riz.",
+        "url": "https://www.youtube.com/watch?v=lClwnXJT8kA&t=13s"
+      }
+    },
+    {
+      "id": 18,
+      "nom": "Yassa Poulet",
+      "categorie": "Plats principaux",
+      "image": "/yassa.jfif",
+      "description": "Poulet mariné aux oignons et au citron, spécialité sénégalaise",
+      "temps": "1h 30m (+ 2h de marinade)",
+      "portions": 4,
+      "recette": {
+        "ingredients": [
+          {
+            "nom": "Poulet",
+            "quantité": "1 kg"
+          },
+          {
+            "nom": "Oignons",
+            "quantité": "1 kg"
+          },
+          {
+            "nom": "Citrons",
+            "quantité": "4"
+          },
+          {
+            "nom": "Moutarde",
+            "quantité": "2 cuillères à soupe"
+          },
+          {
+            "nom": "Ail",
+            "quantité": "4 gousses"
+          },
+          {
+            "nom": "Huile",
+            "quantité": "1/2 tasse"
+          },
+          {
+            "nom": "Bouillon cube",
+            "quantité": "1"
+          },
+          {
+            "nom": "Sel et poivre",
+            "quantité": "au goût"
+          },
+          {
+            "nom": "Piment (facultatif)",
+            "quantité": "1"
+          }
+        ],
+        "instructions": "Mariner le poulet dans le jus de citron, la moutarde, l'ail écrasé, le sel et le poivre pendant 2 heures. Émincer les oignons. Faire griller le poulet. Dans une casserole, faire revenir les oignons dans l'huile jusqu'à ce qu'ils soient dorés. Ajouter le poulet grillé, le reste de la marinade, le bouillon cube et un peu d'eau. Laisser mijoter à feu doux pendant 30 minutes. Servir chaud avec du riz.",
+        "url": "https://www.youtube.com/watch?v=9PxkpD4oI0c"
+      }
+    },
+    {
+      "id": 19,
+      "nom": "Soupe Kandia",
+      "categorie": "Soupes",
+      "image": "/kandia.jfif",
+      "description": "Soupe ivoirienne à base de gombo et de poisson fumé",
+      "temps": "1h",
+      "portions": 6,
+      "recette": {
+        "ingredients": [
+          {
+            "nom": "Gombo frais",
+            "quantité": "500g"
+          },
+          {
+            "nom": "Poisson fumé",
+            "quantité": "300g"
+          },
+          {
+            "nom": "Viande de bœuf",
+            "quantité": "300g"
+          },
+          {
+            "nom": "Oignons",
+            "quantité": "2"
+          },
+          {
+            "nom": "Tomates",
+            "quantité": "3"
+          },
+          {
+            "nom": "Piment",
+            "quantité": "1"
+          },
+          {
+            "nom": "Huile de palme",
+            "quantité": "3 cuillères à soupe"
+          },
+          {
+            "nom": "Bouillon cube",
+            "quantité": "2"
+          },
+          {
+            "nom": "Sel",
+            "quantité": "au goût"
+          }
+        ],
+        "instructions": "Laver et couper le gombo en petits morceaux. Faire revenir la viande dans l'huile de palme. Ajouter les oignons et les tomates coupés. Ajouter le gombo, le poisson fumé émietté, le piment, les bouillons cubes et le sel. Couvrir d'eau et laisser mijoter à feu doux pendant 45 minutes. Servir chaud avec du foutou ou de l'attiéké.",
+        "url": "https://www.youtube.com/watch?v=R0R983E58l4"
+      }
+    },
+    {
+      "id": 20,
+      "nom": "Pepper Soup",
+      "categorie": "Soupes",
+      "image": "/soup.jfif",
+      "description": "Soupe épicée nigériane à base de viande ou de poisson",
+      "temps": "1h 30m",
+      "portions": 4,
+      "recette": {
+        "ingredients": [
+          {
+            "nom": "Viande de chèvre ou de bœuf (ou poisson)",
+            "quantité": "500g"
+          },
+          {
+            "nom": "Oignons",
+            "quantité": "2"
+          },
+          {
+            "nom": "Ail",
+            "quantité": "3 gousses"
+          },
+          {
+            "nom": "Gingembre frais",
+            "quantité": "1 morceau de 5cm"
+          },
+          {
+            "nom": "Graines de maniguette",
+            "quantité": "1 cuillère à café"
+          },
+          {
+            "nom": "Piment de Calabar",
+            "quantité": "1 cuillère à café"
+          },
+          {
+            "nom": "Feuilles d'utazi",
+            "quantité": "2"
+          },
+          {
+            "nom": "Bouillon cube",
+            "quantité": "2"
+          },
+          {
+            "nom": "Sel",
+            "quantité": "au goût"
+          }
+        ],
+        "instructions": "Faire bouillir la viande avec l'oignon, l'ail et le gingembre jusqu'à ce qu'elle soit tendre. Ajouter les épices (maniguette, piment de Calabar), les bouillons cubes et le sel. Laisser mijoter pendant 20 minutes. Ajouter les feuilles d'utazi 5 minutes avant de servir. Servir chaud.",
+        "url": "https://www.youtube.com/watch?v=V4r3MUmRG1Q"
+      }
+    },
+    {
+      "id": 21,
+      "nom": "Chorba",
+      "categorie": "Soupes",
+      "image": "/chorba.jfif",
+      "description": "Soupe traditionnelle maghrébine à base de viande et de légumes",
+      "temps": "1h 15m",
+      "portions": 6,
+      "recette": {
+        "ingredients": [
+          {
+            "nom": "Viande d'agneau",
+            "quantité": "400g"
+          },
+          {
+            "nom": "Oignons",
+            "quantité": "2"
+          },
+          {
+            "nom": "Tomates",
+            "quantité": "3"
+          },
+          {
+            "nom": "Céleri",
+            "quantité": "2 branches"
+          },
+          {
+            "nom": "Pois chiches",
+            "quantité": "200g (trempés la veille)"
+          },
+          {
+            "nom": "Vermicelles",
+            "quantité": "100g"
+          },
+          {
+            "nom": "Concentré de tomate",
+            "quantité": "2 cuillères à soupe"
+          },
+          {
+            "nom": "Huile d'olive",
+            "quantité": "3 cuillères à soupe"
+          },
+          {
+            "nom": "Coriandre fraîche",
+            "quantité": "1 bouquet"
+          },
+          {
+            "nom": "Cumin",
+            "quantité": "1 cuillère à café"
+          },
+          {
+            "nom": "Cannelle",
+            "quantité": "1/2 cuillère à café"
+          },
+          {
+            "nom": "Sel et poivre",
+            "quantité": "au goût"
+          }
+        ],
+        "instructions": "Faire revenir la viande et les oignons dans l'huile d'olive. Ajouter les tomates, le céleri, les épices et le concentré de tomate. Couvrir d'eau et ajouter les pois chiches. Laisser mijoter 45 minutes. Ajouter les vermicelles et cuire encore 10 minutes. Ajouter la coriandre hachée avant de servir. Servir chaud.",
+        "url": "https://www.youtube.com/watch?v=eR4KWOiltnk"
+      }
+    },
+    {
+      "id": 22,
+      "nom": "Bouillie de Mil",
+      "categorie": "Petit-déjeuner",
+      "image": "/mil.jfif",
+      "description": "Bouillie de mil sucrée, populaire en Afrique de l'Ouest",
+      "temps": "20m",
+      "portions": 4,
+      "recette": {
+        "ingredients": [
+          {
+            "nom": "Farine de mil",
+            "quantité": "200g"
+          },
+          {
+            "nom": "Eau",
+            "quantité": "1 litre"
+          },
+          {
+            "nom": "Lait",
+            "quantité": "500ml"
+          },
+          {
+            "nom": "Sucre",
+            "quantité": "100g"
+          },
+          {
+            "nom": "Vanille",
+            "quantité": "1 cuillère à café"
+          },
+          {
+            "nom": "Sel",
+            "quantité": "1 pincée"
+          }
+        ],
+        "instructions": "Diluer la farine de mil dans 200ml d'eau froide. Porter le reste de l'eau à ébullition avec une pincée de sel. Verser la farine diluée en remuant constamment. Laisser cuire à feu doux pendant 15 minutes. Ajouter le lait, le sucre et la vanille. Remuer et laisser mijoter encore 5 minutes. Servir chaud.",
+        "url": "https://www.youtube.com/watch?v=lA2WQx9JX9s"
+      }
+    },
+    {
+      "id": 23,
+      "nom": "Akara",
+      "categorie": "Petit-déjeuner",
+      "image": "/akara.jfif",
+      "description": "Beignets de haricots nigérians",
+      "temps": "40m",
+      "portions": 4,
+      "recette": {
+        "ingredients": [
+          {
+            "nom": "Haricots niébé",
+            "quantité": "500g"
+          },
+          {
+            "nom": "Oignon",
+            "quantité": "1"
+          },
+          {
+            "nom": "Piment",
+            "quantité": "1 (facultatif)"
+          },
+          {
+            "nom": "Sel",
+            "quantité": "au goût"
+          },
+          {
+            "nom": "Huile",
+            "quantité": "pour friture"
+          }
+        ],
+        "instructions": "Faire tremper les haricots pendant la nuit. Retirer la peau et les mixer avec l'oignon et le piment jusqu'à obtenir une pâte lisse. Saler. Chauffer l'huile dans une poêle. Former des boules avec la pâte et les faire frire jusqu'à ce qu'elles soient dorées. Égoutter sur du papier absorbant. Servir chaud.",
+        "url": "https://www.youtube.com/watch?v=1850D4PPu1Q"
+      }
+    },
+    {
+      "id": 24,
+      "nom": "Mandazi",
+      "categorie": "Petit-déjeuner",
+      "image": "/mandazi.jfif",
+      "description": "Pain frit kenyan légèrement sucré",
+      "temps": "30m",
+      "portions": 6,
+      "recette": {
+        "ingredients": [
+          {
+            "nom": "Farine",
+            "quantité": "500g"
+          },
+          {
+            "nom": "Sucre",
+            "quantité": "100g"
+          },
+          {
+            "nom": "Levure",
+            "quantité": "1 cuillère à café"
+          },
+          {
+            "nom": "Lait",
+            "quantité": "250ml"
+          },
+          {
+            "nom": "Œuf",
+            "quantité": "1"
+          },
+          {
+            "nom": "Beurre fondu",
+            "quantité": "50g"
+          },
+          {
+            "nom": "Cardamome moulue",
+            "quantité": "1/2 cuillère à café"
+          },
+          {
+            "nom": "Huile",
+            "quantité": "pour friture"
+          }
+        ],
+        "instructions": "Mélanger tous les ingrédients secs. Ajouter le lait, l'œuf et le beurre fondu. Pétrir pour obtenir une pâte lisse. Laisser reposer 15 minutes. Étaler la pâte et découper en triangles. Faire frire dans l'huile chaude jusqu'à ce qu'ils soient dorés. Égoutter sur du papier absorbant. Servir chaud avec du thé ou du café.",
+        "url": "https://www.youtube.com/watch?v=Uud-yxA2ECA"
+      }
+    },
+    {
+      "id": 25,
+      "nom": "Chakchouka",
+      "categorie": "Petit-déjeuner",
+      "image": "/chak.jfif",
+      "description": "Plat d'œufs pochés dans une sauce de tomates et de poivrons, populaire en Afrique du Nord",
+      "temps": "30m",
+      "portions": 4,
+      "recette": {
+        "ingredients": [
+          {
+            "nom": "Œufs",
+            "quantité": "6"
+          },
+          {
+            "nom": "Tomates",
+            "quantité": "4"
+          },
+          {
+            "nom": "Poivrons",
+            "quantité": "2"
+          },
+          {
+            "nom": "Oignon",
+            "quantité": "1"
+          },
+          {
+            "nom": "Ail",
+            "quantité": "2 gousses"
+          },
+          {
+            "nom": "Huile d'olive",
+            "quantité": "3 cuillères à soupe"
+          },
+          {
+            "nom": "Cumin",
+            "quantité": "1 cuillère à café"
+          },
+          {
+            "nom": "Paprika",
+            "quantité": "1 cuillère à café"
+          },
+          {
+            "nom": "Sel et poivre",
+            "quantité": "au goût"
+          }
+        ],
+        "instructions": "Faire revenir l'oignon et l'ail dans l'huile d'olive. Ajouter les poivrons coupés en dés et laisser cuire 5 minutes. Ajouter les tomates concassées, le cumin, le paprika, le sel et le poivre. Laisser mijoter 10 minutes. Faire des creux dans la sauce et y casser les œufs. Couvrir et laisser cuire jusqu'à ce que les blancs soient pris. Servir chaud avec du pain.",
+        "url": "https://www.youtube.com/watch?v=uDFIk3XE8aU&t=1s"
+      }
+    },
+    {
+      "id": 26,
+      "nom": "Thiakry",
+      "categorie": "Petit-déjeuner",
+      "image": "/thia.jfif",
+      "description": "Dessert sénégalais à base de couscous de mil et de yaourt, souvent consommé au petit-déjeuner",
+      "temps": "20m",
+      "portions": 4,
+      "recette": {
+        "ingredients": [
+          {
+            "nom": "Couscous de mil",
+            "quantité": "200g"
+          },
+          {
+            "nom": "Yaourt nature",
+            "quantité": "500g"
+          },
+          {
+            "nom": "Lait concentré sucré",
+            "quantité": "100g"
+          },
+          {
+            "nom": "Raisins secs",
+            "quantité": "50g"
+          },
+          {
+            "nom": "Noix de coco râpée",
+            "quantité": "50g"
+          },
+          {
+            "nom": "Vanille",
+            "quantité": "1 cuillère à café"
+          }
+        ],
+        "instructions": "Cuire le couscous de mil à la vapeur selon les instructions du paquet. Laisser refroidir. Mélanger le yaourt, le lait concentré sucré et la vanille. Incorporer le couscous refroidi au mélange de yaourt. Ajouter les raisins secs et la noix de coco râpée. Bien mélanger. Réfrigérer pendant au moins 1 heure avant de servir.",
+        "url": "https://www.youtube.com/watch?v=-U0DlpMHKT8"
+      }
+    },
+    {
+      "id": 27,
+      "nom": "Mahamri",
+      "categorie": "Petit-déjeuner",
+      "image": "/maha.jfif",
+      "description": "Pain frit épicé originaire de la côte swahilie, populaire au Kenya et en Tanzanie",
+      "temps": "2h (dont 1h30 de repos)",
+      "portions": 6,
+      "recette": {
+        "ingredients": [
+          {
+            "nom": "Farine",
+            "quantité": "500g"
+          },
+          {
+            "nom": "Levure sèche",
+            "quantité": "7g"
+          },
+          {
+            "nom": "Sucre",
+            "quantité": "100g"
+          },
+          {
+            "nom": "Lait de coco",
+            "quantité": "200ml"
+          },
+          {
+            "nom": "Œufs",
+            "quantité": "2"
+          },
+          {
+            "nom": "Cardamome moulue",
+            "quantité": "1 cuillère à café"
+          },
+          {
+            "nom": "Huile",
+            "quantité": "pour friture"
+          }
+        ],
+        "instructions": "Mélanger la farine, la levure, le sucre et la cardamome. Ajouter les œufs battus et le lait de coco. Pétrir pour obtenir une pâte lisse. Laisser reposer 1h30. Étaler la pâte et découper en triangles. Faire frire dans l'huile chaude jusqu'à ce qu'ils soient dorés. Égoutter sur du papier absorbant. Servir chaud avec du thé ou du café.",
+        "url": "https://www.youtube.com/watch?v=Gss2gQFQNvo"
+      }
+    },
+    {
+      "id": 29,
+      "nom": "Soupe à l'oignon",
+      "categorie": "Soupes",
+      "image": "/oignon.jfif",
+      "description": "Soupe française traditionnelle à base d'oignons caramélisés",
+      "temps": "1h 30m",
+      "portions": 6,
+      "recette": {
+        "ingredients": [
+          {
+            "nom": "Oignons",
+            "quantité": "1 kg"
+          },
+          {
+            "nom": "Beurre",
+            "quantité": "50g"
+          },
+          {
+            "nom": "Farine",
+            "quantité": "2 cuillères à soupe"
+          },
+          {
+            "nom": "Vin blanc sec",
+            "quantité": "200ml"
+          },
+          {
+            "nom": "Bouillon de bœuf",
+            "quantité": "1.5 litres"
+          },
+          {
+            "nom": "Baguette",
+            "quantité": "1"
+          },
+          {
+            "nom": "Fromage gruyère râpé",
+            "quantité": "200g"
+          },
+          {
+            "nom": "Thym",
+            "quantité": "2 branches"
+          },
+          {
+            "nom": "Sel et poivre",
+            "quantité": "au goût"
+          }
+        ],
+        "instructions": "Émincer finement les oignons. Les faire caraméliser dans le beurre à feu doux pendant 30 minutes. Ajouter la farine et cuire 2 minutes. Déglacer au vin blanc, puis ajouter le bouillon et le thym. Laisser mijoter 45 minutes. Répartir la soupe dans des bols allant au four. Poser une tranche de baguette sur chaque bol et recouvrir de gruyère râpé. Passer au gril jusqu'à ce que le fromage soit fondu et doré. Servir immédiatement.",
+        "url": "https://www.youtube.com/watch?v=r078bSTC1Zs"
+      }
+    },
+    {
+      "id": 30,
+      "nom": "Minestrone",
+      "categorie": "Soupes",
+      "image": "/mine.jfif",
+      "description": "Soupe italienne copieuse aux légumes et aux pâtes",
+      "temps": "1h",
+      "portions": 8,
+      "recette": {
+        "ingredients": [
+          {
+            "nom": "Haricots blancs",
+            "quantité": "400g (en boîte)"
+          },
+          {
+            "nom": "Oignon",
+            "quantité": "1"
+          },
+          {
+            "nom": "Carottes",
+            "quantité": "2"
+          },
+          {
+            "nom": "Céleri",
+            "quantité": "2 branches"
+          },
+          {
+            "nom": "Courgette",
+            "quantité": "1"
+          },
+          {
+            "nom": "Tomates pelées",
+            "quantité": "400g (en boîte)"
+          },
+          {
+            "nom": "Petites pâtes",
+            "quantité": "100g"
+          },
+          {
+            "nom": "Bouillon de légumes",
+            "quantité": "1.5 litres"
+          },
+          {
+            "nom": "Huile d'olive",
+            "quantité": "3 cuillères à soupe"
+          },
+          {
+            "nom": "Parmesan râpé",
+            "quantité": "50g"
+          },
+          {
+            "nom": "Basilic frais",
+            "quantité": "quelques feuilles"
+          },
+          {
+            "nom": "Sel et poivre",
+            "quantité": "au goût"
+          }
+        ],
+        "instructions": "Hacher l'oignon et couper les légumes en dés. Faire revenir l'oignon dans l'huile d'olive, puis ajouter les autres légumes. Cuire 5 minutes. Ajouter les tomates et le bouillon. Porter à ébullition et laisser mijoter 20 minutes. Ajouter les pâtes et les haricots, puis cuire encore 10 minutes. Assaisonner. Servir avec du parmesan râpé et des feuilles de basilic.",
+        "url": "https://www.youtube.com/watch?v=DXmQxqeu1oA"
+      }
+    },
+    {
+      "id": 31,
+      "nom": "Bortsch",
+      "categorie": "Soupes",
+      "image": "/bosh.jpg",
+      "description": "Soupe ukrainienne à base de betteraves et de chou",
+      "temps": "2h",
+      "portions": 8,
+      "recette": {
+        "ingredients": [
+          {
+            "nom": "Betteraves",
+            "quantité": "500g"
+          },
+          {
+            "nom": "Chou blanc",
+            "quantité": "1/4"
+          },
+          {
+            "nom": "Pommes de terre",
+            "quantité": "2"
+          },
+          {
+            "nom": "Carottes",
+            "quantité": "2"
+          },
+          {
+            "nom": "Oignon",
+            "quantité": "1"
+          },
+          {
+            "nom": "Tomates pelées",
+            "quantité": "400g (en boîte)"
+          },
+          {
+            "nom": "Bouillon de bœuf",
+            "quantité": "2 litres"
+          },
+          {
+            "nom": "Vinaigre",
+            "quantité": "2 cuillères à soupe"
+          },
+          {
+            "nom": "Sucre",
+            "quantité": "1 cuillère à café"
+          },
+          {
+            "nom": "Aneth frais",
+            "quantité": "1 bouquet"
+          },
+          {
+            "nom": "Crème fraîche",
+            "quantité": "Pour servir"
+          },
+          {
+            "nom": "Sel et poivre",
+            "quantité": "au goût"
+          }
+        ],
+        "instructions": "Peler et râper les betteraves. Émincer le chou et l'oignon. Couper les pommes de terre et les carottes en dés. Dans une grande casserole, faire revenir l'oignon. Ajouter les betteraves, les carottes, les pommes de terre et le chou. Verser le bouillon et les tomates. Porter à ébullition puis laisser mijoter 1h30. Ajouter le vinaigre et le sucre. Assaisonner. Servir chaud avec de la crème fraîche et de l'aneth haché.",
+        "url": "https://www.youtube.com/watch?v=b6yJW9krCUc"
+      }
+    }
+]
